@@ -4,7 +4,7 @@ keras==3.3.3                 # TF 2.16과 호환되는 공식 릴리스
 
 # --- Data & Image Processing ---
 numpy==1.26.4
-opencv-python==4.11.0.86
+opencv-python-headless
 pillow==11.0.0
 
 # --- Web App Framework ---
