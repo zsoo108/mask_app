@@ -1,0 +1,19 @@
+# --- Core Deep Learning Stack ---
+tensorflow==2.16.2           # Keras 3.x 호환 안정 버전
+keras==3.3.3                 # TF 2.16과 호환되는 공식 릴리스
+
+# --- Data & Image Processing ---
+numpy==1.26.4
+opencv-python==4.11.0.86
+pillow==11.0.0
+
+# --- Web App Framework ---
+streamlit==1.50.0
+
+# --- Utils ---
+h5py==3.10.0                 # 모델 로딩 관련 안정 버전
+protobuf==4.25.3             # TF & Streamlit 호환성 확보
+matplotlib==3.10.0
+pandas==2.3.3
+
+ultralytics==8.4.193
